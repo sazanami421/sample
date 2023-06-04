@@ -1,1 +1,2 @@
 # sample
+copilot使ってみることにします。
